@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Myat Toe</h1>
 <h3 align="center">👨‍🚀♾✨🚀Aerospace Engineering PhD Candidate and Embedded Systems Control Enthusiast.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/sukhoi-plane-cobra-maneuver-su27-sukhoi-su27-gif-20743994">
+<img align="right" alt="Coding" width="400" src="https://commons.wikimedia.org/wiki/File:SAAB_35_Draken_performing_the_Cobra_maneuver.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myattoe&label=Profile%20views&color=0e75b6&style=flat" alt="myattoe" /> </p>
 
