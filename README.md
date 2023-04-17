@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **KADA**
 
-- 👨‍💻 All of my projects are available at [coming soon! ~~~](coming soon! ~~~)
+- 👨‍💻 All of my projects are available at [coming soon! ~~~]
 
-- 📝 I regularly write articles on [coming soon! ~~~](coming soon! ~~~)
+- 📝 I regularly write articles on [coming soon! ~~~]
 
 - 💬 Ask me about **C++, Python, Matlab**
 
