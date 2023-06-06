@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myattoe&label=Profile%20views&color=0e75b6&style=flat" alt="myattoe" /> </p>
 
-- 🔭 I’m currently working on PX-4 **Control Toolbox**, **Digital Twin Technology**, **Flight Controller**, **Sundori Hexacopter Control**
+- 🔭 I’m currently working on PX-4 **Control Toolbox**, **Digital Twin Technology**, **Flight Controller**, **Sundori Hexacopter Control**, **AI based Control**
 
 - 🌱 I’m currently learning **C++, Python, Matlab, Optimization, Maths**
 
