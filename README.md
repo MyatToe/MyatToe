@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myattoe&label=Profile%20views&color=0e75b6&style=flat" alt="myattoe" /> </p>
 
-- 🔭 I’m currently working on PX-4 **Control Toolbox**
+- 🔭 I’m currently working on PX-4 **Control Toolbox**, **Digital Twin Technology**, **Flight Controller**, **Sundori Hexacopter Control**
 
-- 🌱 I’m currently learning **C++, Python, Matlab**
+- 🌱 I’m currently learning **C++, Python, Matlab, Optimization, Maths**
 
 - 👯 I’m looking to collaborate on **KADA**
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [coming soon! ~~~]
 
-- 💬 Ask me about **C++, Python, Matlab**
+- 💬 Ask me about **C++, Python, Matlab, linux, embedded system deployment, flight test**
 
 - 📫 How to reach me **myattoe92@gmail.com, myattow92@konkuk.ac.kr**
 
