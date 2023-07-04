@@ -10,13 +10,11 @@
 
 - 🌱 I’m currently learning **C++, Python, Matlab, Optimization, Maths**
 
-- 👯 I’m looking to collaborate on **KADA**
+- 👯 I’m looking to collaborate on **KADA** & **VIBUM**
 
-- 👨‍💻 All of my projects are available at [coming soon! ~~~]
+- 👨‍💻 All of my projects are funded by **National Research Foundation of Korea**
 
-- 📝 I regularly write articles on [coming soon! ~~~]
-
-- 💬 Ask me about **C++, Python, Matlab, linux, embedded system deployment, flight test**
+- 💬 Ask me about **Flight controller in C++, Python, Matlab, linux, embedded system deployment, flight test**
 
 - 📫 How to reach me **myattoe92@gmail.com, myattow92@konkuk.ac.kr**
 
