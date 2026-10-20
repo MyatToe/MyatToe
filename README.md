@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on a **flapping-wing micro air vehicle (FWMAV)**: **hover control**, **system identification** from flight and load-cell data, **STM32 flight firmware**, **IMU attitude estimation** and **flight testing**
 
-- 🧠 Research interests: **LQR / sliding-mode control**, **physics-informed AI dynamics**, **design optimization**, **PX4 / JSBSim simulation and HILS**
+- 🧠 Research interests: **LQR / sliding-mode / MPC / PID control**, **physics-informed AI dynamics**, **design optimization**, **PX4 / JSBSim simulation and HILS**
 
 - 🌱 Currently improving: **modern C++**, **Kalman filtering (EKF/UKF)**, **ROS 2**
 
