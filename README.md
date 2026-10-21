@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myattoe&label=Profile%20views&color=0e75b6&style=flat" alt="myattoe" /> </p>
 
-- 🎓 PhD candidate, **Aerospace Information Engineering, Konkuk University** (Seoul), in the **Control System Research Lab (CSRL)** with **Prof. Taesam Kang**
+- 🎓 PhD candidate, **Aerospace Information Engineering, Konkuk University** (Seoul), in the **Control System Research Lab (CSRL)** with **Prof. Taesam Kang** (advisor) and **Prof. Jungkeun Park** (co-supervisor)
 
-- 🔭 Currently working on a **flapping-wing micro air vehicle (FWMAV)**: **hover control**, **system identification** from flight and load-cell data, **STM32 flight firmware**, **IMU attitude estimation** and **flight testing**
+- 🔭 Currently working on a **flapping-wing micro air vehicle (FWMAV)**: **hover control**, **system identification** from flight and load-cell data, **embedded flight firmware**, **IMU attitude estimation** and **flight testing**
 
-- 🧠 Research interests: **LQR / sliding-mode / MPC / PID control**, **physics-informed AI dynamics**, **design optimization**, **PX4 / JSBSim simulation and HILS**
+- 🧠 Research interests: **LQR / sliding-mode / MPC / PID control**, **physics-informed AI dynamics**, **design optimization**, **flight dynamics simulation and HILS**
 
 - 🌱 Currently improving: **modern C++**, **Kalman filtering (EKF/UKF)**, **ROS 2**
 
