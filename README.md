@@ -24,7 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/myattoekedln" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-myattoekedln-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a>
+<a href="https://www.linkedin.com/in/myattoe" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-myattoe-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a>
+<a href="https://scholar.google.com/citations?user=aAn1jggAAAAJ" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Scholar-Myat%20Toe-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar" height="28" /></a>
 <a href="https://orcid.org/0000-0002-2882-3151" target="blank"><img align="center" src="https://img.shields.io/badge/ORCID-0000--0002--2882--3151-A6CE39?logo=orcid&logoColor=white" alt="ORCID" height="28" /></a>
 </p>
 
